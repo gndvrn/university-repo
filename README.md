@@ -1,3 +1,4 @@
 # university-repo
 Hi! 👋🏼
-There are some projects that I've made during study in RGAU-MSHA university
+
+There are projects that I did while studying at **RGAU-MSHA**🎓.
